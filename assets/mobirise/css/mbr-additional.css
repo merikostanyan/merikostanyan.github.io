@@ -1934,7 +1934,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #ff7f9f;
 }
 .cid-qASOiW1WLr button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2178,6 +2178,33 @@ body {
 .cid-qBQukurYfv .mbr-text B {
   color: #000000;
 }
+.cid-qBQukurYfv .mbr-text P {
+  color: #000000;
+}
+.cid-qC8f1rVRAp {
+  padding-top: 120px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-qC8f1rVRAp .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-qC8f1rVRAp .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-qC8f1rVRAp .mbr-text {
+  color: #767676;
+}
+.cid-qC8f1rVRAp .mbr-text B {
+  color: #000000;
+}
+.cid-qC8f1rVRAp .mbr-text P {
+  color: #000000;
+}
 .cid-qBQtlJzxFy {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -2403,7 +2430,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #ff7f9f;
 }
 .cid-qASOiW1WLr button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2626,26 +2653,26 @@ body {
 .cid-qASOiW1WLr .navbar-collapse {
   flex-basis: auto;
 }
-.cid-qBwJzc8l7c {
+.cid-qC8oj5i6fG {
   padding-top: 135px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
-.cid-qBwJzc8l7c .mbr-slider .carousel-control {
+.cid-qC8oj5i6fG .mbr-slider .carousel-control {
   background: #1b1b1b;
 }
-.cid-qBwJzc8l7c .mbr-slider .carousel-control-prev {
+.cid-qC8oj5i6fG .mbr-slider .carousel-control-prev {
   left: 0;
   margin-left: 2.5rem;
 }
-.cid-qBwJzc8l7c .mbr-slider .carousel-control-next {
+.cid-qC8oj5i6fG .mbr-slider .carousel-control-next {
   right: 0;
   margin-right: 2.5rem;
 }
-.cid-qBwJzc8l7c .mbr-slider .modal-body .close {
+.cid-qC8oj5i6fG .mbr-slider .modal-body .close {
   background: #1b1b1b;
 }
-.cid-qBwJzc8l7c .mbr-gallery-item > div::before {
+.cid-qC8oj5i6fG .mbr-gallery-item > div::before {
   content: '';
   position: absolute;
   left: 0;
@@ -2657,7 +2684,7 @@ body {
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
 }
-.cid-qBwJzc8l7c .mbr-gallery-title {
+.cid-qC8oj5i6fG .mbr-gallery-title {
   font-size: .9em;
   position: absolute;
   display: block;
@@ -2894,7 +2921,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #ff7f9f;
 }
 .cid-qASOiW1WLr button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
